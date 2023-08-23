@@ -1,0 +1,8 @@
+.env
+.DS_Store
+.ipynb_checkpoints
+
+train-wip.*
+
+/data
+/venv
